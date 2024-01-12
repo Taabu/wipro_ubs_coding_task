@@ -38,7 +38,7 @@ The Instrument Calculator is a PySpark application designed to calculate financi
     ```
 
 
-### Performance Considerations
+### Performance Considerations:
 
 Given the requirement to handle large datasets efficiently, the project utilizes PySpark to leverage distributed processing capabilities. This allows the solution to scale effectively and process gigabytes of data without encountering memory errors.
 
