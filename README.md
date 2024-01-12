@@ -8,6 +8,7 @@ The Instrument Calculator is a PySpark application designed to calculate financi
 
 - Python 3.9 or higher
 - Poetry (for dependency management)
+    ```curl -sSL https://install.python-poetry.org | python3 -```
 
 ### Steps:
 
